@@ -18,3 +18,4 @@ initTooltip();
 initDropdownMenu();
 initMenuMobile();
 initAnimaNumeros();
+initFuncionamento();
